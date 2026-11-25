@@ -190,6 +190,18 @@ There are less expensive lineear tables that are shorter.   which might make sen
 
 
 
+# BARCODE printer.
+In example of the heater, there is a kit assembly number.  Deliverables include a requirement that the fixed camera locates and reads the lable.  
+My concern is that the camera is at the mercy of the HUMAN placing the label, ambient light, view obstructions and even the barcode or alphanumeric itself.
+
+My thought was to include a barcode printer, controlled by the station, which produces a barcode that can be confidently read.  Specifically a barcode that is readable
+
+https://www.amazon.com/iDPRT-Label-Printer-Detection-Business/dp/B0CB7NHDY5/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Q4D82FMlO3IylsfUNey2O1nRpqBocSxlRlpyGf807KHSyVJwq5zbphOkcMOShFZPfP9w1BMR_yxDtQo5HY_8WWQqaciEwWjQecWgOHan_U9y81yww5qPptYP1D49aSOlM-NgWGj7iRPthL-wok-o8ShfFGIM5aQ3nVbQz3k8KfAI1CDiEZXo8goIUl28AjgByBRSm-IEKBQf9HKFqVXEnq5OMMm0RfDwF7q2pp9ln2k.dTpQ2XFyGwTzDDlsFqf9VtbS1jC_wWbeqPC9HhbKZq0&dib_tag=se&keywords=barcode%2Bprinter&qid=1795577637&sr=8-3&th=1
+
+
+
+
+
 
 # another IDEA....   GANTRY system with cam.
 These could be a lot less expensive.    The cams would be fixed. 
